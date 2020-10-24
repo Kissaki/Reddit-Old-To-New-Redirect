@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Reddit Old To New Redirect",
   "description": "Redirect old.reddit (old layout) pages to the corresponding new page (old.reddit.com/* -> www.reddit.com/*).",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "background": {
     "scripts": [
       "background_script.js"
